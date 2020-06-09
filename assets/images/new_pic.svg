@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>NewPic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="50" cy="50" r="50"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profil-Bilgileri-Gir" transform="translate(-138.000000, -203.000000)">
+            <g id="NewPic" transform="translate(138.000000, 203.000000)">
+                <g id="456212">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)" fill="#ABABAB" fill-rule="nonzero" id="Path">
+                        <g transform="translate(17.000000, 22.000000)">
+                            <path d="M32.9589844,0 C22.054834,0 13.1835938,8.87124023 13.1835938,19.7753906 C13.1835938,30.679541 22.054834,39.5507812 32.9589844,39.5507812 C43.8631348,39.5507812 52.734375,30.679541 52.734375,19.7753906 C52.734375,8.87124023 43.8631348,0 32.9589844,0 Z"></path>
+                            <path d="M57.5633789,53.6076651 C52.1493164,47.4120047 44.9720215,44 37.3535156,44 L28.5644531,44 C20.9460937,44 13.7686523,47.4120047 8.35458984,53.6076651 C2.96704102,59.7729481 0,67.9111085 0,76.5235849 C0,77.8912264 0.983789063,79 2.19726562,79 L63.7207031,79 C64.9341797,79 65.9179688,77.8912264 65.9179688,76.5235849 C65.9179688,67.9111085 62.9509277,59.7729481 57.5633789,53.6076651 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

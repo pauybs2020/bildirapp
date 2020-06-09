@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992102556900",
+    "firebase_url": "https://bildir-30903.firebaseio.com",
+    "project_id": "bildir-30903",
+    "storage_bucket": "bildir-30903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992102556900:android:df0fde2c39e964787e78f1",
+        "android_client_info": {
+          "package_name": "com.cagatayjankat.bildirapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992102556900-hr5dfq0a2gftnbf7b55atvc3c7rifkfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHaZ00IFgkQIUX-MAhATMLF93rtvx6VfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992102556900-hr5dfq0a2gftnbf7b55atvc3c7rifkfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

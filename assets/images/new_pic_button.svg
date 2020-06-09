@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>newPicButton</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hesabım" transform="translate(-105.000000, -227.000000)">
+            <g id="newPicButton" transform="translate(105.000000, 227.000000)">
+                <circle id="Oval" fill="#2DAEDC" cx="12.5" cy="12.5" r="12.5"></circle>
+                <g id="61112" transform="translate(9.000000, 9.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="Path" points="7 4 4 4 4 7 3 7 3 4 0 4 0 3 3 3 3 0 4 0 4 3 7 3"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
